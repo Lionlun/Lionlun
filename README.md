@@ -2,6 +2,17 @@
 
 <!--
 **Lionlun/Lionlun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lev Lunev
+#### Game Development
+Something about me
+
+Skills: C# / Unity / .Net
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
 Here are some ideas to get you started:
 
